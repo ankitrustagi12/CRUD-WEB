@@ -14,19 +14,10 @@
     
 </head>
 <body>
-    <nav class="navbar" style="background-color: #19aff5;">
-        <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-        <a  class="navbar-brand" href+"#">CRUD SYSTEM</a>
-        </div>
-        </div>
-</nav>
- 
+    <!-- As a heading -->
+   <nav class="navbar navbar-light bg-primary">
+     <span class="navbar-brand mb-0 h1">Navbar</span>
+   </nav>
  
     
 </body>
